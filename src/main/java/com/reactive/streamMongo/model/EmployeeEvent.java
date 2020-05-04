@@ -13,5 +13,4 @@ public class EmployeeEvent {
 
 	private Employee employee;
 	private Date date;
-
 }
